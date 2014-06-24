@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Save Ukraine!
+title: Cossacks VS Zombies!
 ---
 {% include JB/setup %}
 
