@@ -11,8 +11,8 @@ pygments: true
 title : Save Ukraine
 tagline: Site Tagline
 author :
-  name : saveukraine
-  email : saveukraineapp@gmail.com
+  name : cossacksvszombies
+  email : cossacksvszombies@gmail.com
 #  github : username
 #  twitter : username
 #  feedburner : feedname
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://saveukraine.github.io
+production_url : http://cossacksvszombies.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
